@@ -35,7 +35,6 @@ customer_service_chatbot/
 
 ![Screenshot](Screenshot.png)
 
-(Add your chatbot screenshot here)
 
 ## 🎯 Internship Task
 
